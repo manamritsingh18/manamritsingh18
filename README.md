@@ -18,19 +18,21 @@ Currently, I’m improving my backend development skills and exploring how AI ca
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Web
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ---
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
@@ -42,31 +44,13 @@ Currently, I’m improving my backend development skills and exploring how AI ca
 
 ---
 
-### ⚙️ Backend & APIs
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
----
-
-### 🛠️ Tools
+### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
-
----
-
-### ☁️ Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
-![Railway](https://img.shields.io/badge/Railway-purple?style=for-the-badge)
 
 ---
 
