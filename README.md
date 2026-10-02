@@ -59,41 +59,40 @@ flow from video upload to analysis and violation reporting.
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Education
 
-### Data Engineer Intern — Parker Digital
+- **Data Engineer Intern — Parker Digital**  
+  Worked on practical data engineering workflows involving **data
+  processing, SQL and structured datasets**, with a focus on understanding
+  how raw data is handled, transformed and prepared for real-world
+  applications.
 
-Worked on practical data engineering workflows involving data processing,
-SQL and real-world engineering systems.
-
-`Python` `SQL` `Data Processing` `Databases`
-
+- **B.Tech in Computer Engineering — Bharati Vidyapeeth College of Engineering, Pune**  
+  `2023 – 2027`
+  
 ---
 
-## 🧪 Selected Projects
+## 🚀 Featured Projects
 
-### 🚢 Titanic Survival Prediction
-
-A machine-learning project focused on predicting passenger survival from
-historical passenger data, covering data cleaning, exploratory analysis,
-preprocessing, feature engineering and model evaluation.
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+| Project | What it does | Stack |
+|---|---|---|
+| **📊 PAIMANA Radar** | Predictive monitoring system for infrastructure projects, using historical project data to identify potential schedule delays and cost escalation. | `Python` `Pandas` `PostgreSQL` `SQL` `ML` |
+| **🚦 RoadWatch AI** | Industry-sponsored traffic-safety platform that turns citizen dashcam footage into AI-assisted, reviewer-verified traffic violation cases. | `FastAPI` `Python` `Supabase` `PostgreSQL` `YOLO` `Docker` |
+| **🎬 AIFlix** | Movie recommendation platform combining content-based filtering with AI-assisted recommendation refinement. Built by me as part of a collaborative project. | `React` `Node.js` `MongoDB` `Gemini` |
+| **🚢 Titanic Survival Prediction** | Machine-learning project covering data cleaning, exploratory analysis, preprocessing, feature engineering and survival prediction. | `Python` `Pandas` `NumPy` `Scikit-learn` |
+| **💰 Club Finance Backend** | Backend system for managing club funds, expenses and financial records through structured APIs and database operations. | `Node.js` `Express` `PostgreSQL` `REST APIs` |
 
 ---
 
 ## 🛠️ Tools I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,react,nodejs,fastapi,postgres,mysql,mongodb,supabase,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgres,mysql,mongodb,supabase,docker,git,github,postman" />
 </p>
 
----
-
-## 🎓 Education
-
-**B.Tech — Computer Engineering**  
-Bharati Vidyapeeth College of Engineering, Pune
+<p align="center">
+  <sub>Backend · Databases · Data Engineering · AI/ML · Development Tools</sub>
+</p>
 
 ---
 
