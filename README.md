@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.png" width="100%" />
+</p>
+
 <h1 align="center">Hey, I'm Manamrit Singh 👋</h1>
 
 <p align="center">
