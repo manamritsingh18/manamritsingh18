@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" width="100%" />
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Manamrit Singh 👋</h1>
