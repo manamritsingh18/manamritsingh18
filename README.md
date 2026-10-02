@@ -19,56 +19,41 @@
 > I build systems that people can actually use — not just projects that
 > look good on GitHub.
 
-I'm a 4th-year Computer Engineering student at
-**Bharati Vidyapeeth College of Engineering, Pune**.
+I'm a 4th-year Computer Engineering student at **Bharati Vidyapeeth
+College of Engineering, Pune**.
 
 My journey has gradually moved from general software development toward
 **backend engineering, databases, data engineering and AI-driven systems**.
 
-I enjoy working on the parts that connect everything together —
-APIs, databases, data pipelines, authentication, integrations and models.
+I enjoy working on the parts that connect everything together — APIs,
+databases, data pipelines, authentication, integrations and models.
 
 ---
 
 ## 🚧 What I've Been Building
 
 ### 📊 PAIMANA Radar
-**SIH 2026 · Team Lead · Data Engineering & Backend**
 
-Building a predictive monitoring layer around infrastructure-project data
-to identify potential **schedule delays and cost escalation**.
-
-My current focus is heavily on the data and database side:
-
-- Working with project reports, CSVs and historical datasets
-- Designing a **Bronze → Silver → Gold** ingestion architecture
-- Converting periodic reports into project-level historical data
-- Cleaning, standardising and validating incoming data
-- Working on entity resolution and feature preparation
-- Designing the **PostgreSQL** database layer
-- Using **pgAdmin** for database management and inspection
-- Preparing feature-ready data for downstream ML and explainability
+A predictive monitoring system built around infrastructure-project data,
+with the aim of identifying potential **schedule delays and cost
+escalation** from historical project patterns. I'm currently working
+heavily on the data engineering side — processing project reports and
+historical datasets, designing a **Bronze → Silver → Gold** ingestion
+pipeline, preparing project-level temporal data, and building the
+**PostgreSQL** database layer for downstream ML and explainability.
 
 `Python` `Pandas` `SQL` `PostgreSQL` `Data Engineering` `ML`
 
 ---
 
 ### 🚦 RoadWatch AI
-**Industry-Sponsored Project · Backend / Database / API**
 
-An AI-assisted traffic-safety platform that turns citizen-uploaded
-dashcam footage into reviewer-verified traffic violation cases.
-
-My contribution has mainly been around the backend and integration layer:
-
-- Built APIs using **FastAPI**
-- Worked with **Supabase / PostgreSQL**
-- Implemented authentication and role-based access
-- Worked with JWT-based authorization
-- Integrated the AI detection pipeline with the backend
-- Built the video → analysis → violation report flow
-- Worked on evidence and report storage
-- Connected different services into a single backend workflow
+An industry-sponsored AI-assisted traffic-safety platform that turns
+citizen-uploaded dashcam footage into reviewer-verified traffic
+violation cases. I work primarily on the **backend, database and API
+integration**, including FastAPI services, Supabase/PostgreSQL,
+authentication and JWT-based access, AI pipeline integration, and the
+flow from video upload to analysis and violation reporting.
 
 `Python` `FastAPI` `PostgreSQL` `Supabase` `JWT` `REST APIs`
 
@@ -78,8 +63,8 @@ My contribution has mainly been around the backend and integration layer:
 
 ### Data Engineer Intern — Parker Digital
 
-Worked on practical data engineering workflows, data processing and
-real-world engineering systems.
+Worked on practical data engineering workflows involving data processing,
+SQL and real-world engineering systems.
 
 `Python` `SQL` `Data Processing` `Databases`
 
@@ -90,29 +75,17 @@ real-world engineering systems.
 ### 🚢 Titanic Survival Prediction
 
 A machine-learning project focused on predicting passenger survival from
-historical passenger data.
-
-Worked through data cleaning, exploratory analysis, preprocessing,
-feature engineering and model evaluation.
+historical passenger data, covering data cleaning, exploratory analysis,
+preprocessing, feature engineering and model evaluation.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
-
----
-
-### 💰 Club Finance Backend
-
-Backend system for managing club funds, expenses and financial records.
-
-Focused on API development, structured data handling and backend logic.
-
-`Node.js` `Express` `PostgreSQL` `REST APIs`
 
 ---
 
 ## 🛠️ Tools I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,react,nodejs,fastapi,postgres,mysql,mongodb,supabase,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,react,nodejs,fastapi,postgres,mysql,mongodb,supabase,docker,git,github,postman" />
 </p>
 
 ---
