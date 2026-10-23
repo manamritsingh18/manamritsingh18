@@ -80,11 +80,11 @@ flow from video upload to analysis and violation reporting.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **📊 PAIMANA Radar** | Predictive monitoring system for infrastructure projects, using historical project data to identify potential schedule delays and cost escalation. | `Python` `Pandas` `PostgreSQL` `SQL` `ML` |
-| **🚦 RoadWatch AI** | Industry-sponsored traffic-safety platform that turns citizen dashcam footage into AI-assisted, reviewer-verified traffic violation cases. | `FastAPI` `Python` `Supabase` `PostgreSQL` `YOLO` `Docker` |
-| **🎬 AIFlix** | Movie recommendation platform combining content-based filtering with AI-assisted recommendation refinement. Built by me as part of a collaborative project. | `React` `Node.js` `MongoDB` `Gemini` |
+| **[📊 PAIMANA Radar](https://github.com/manamritsingh18/paimana_project)** | Predictive monitoring system for infrastructure projects, using historical project data to identify potential schedule delays and cost escalation. | `Python` `Pandas` `PostgreSQL` `SQL` `ML` |
+| **[🚦 RoadWatch AI](https://github.com/manamritsingh18/RoadWatchAI)** | Industry-sponsored traffic-safety platform that turns citizen dashcam footage into AI-assisted, reviewer-verified traffic violation cases. | `FastAPI` `Python` `Supabase` `PostgreSQL` `YOLO` `Docker` |
+| **[🎬 AIFlix](https://github.com/manamritsingh18/Aiflix-movie-recommendation-model)** | Movie recommendation platform combining content-based filtering with AI-assisted recommendation refinement. Built by me as part of a collaborative project. | `React` `Node.js` `MongoDB` `Gemini` |
 | **🚢 Titanic Survival Prediction** | Machine-learning project covering data cleaning, exploratory analysis, preprocessing, feature engineering and survival prediction. | `Python` `Pandas` `NumPy` `Scikit-learn` |
-| **💰 Club Finance Backend** | Backend system for managing club funds, expenses and financial records through structured APIs and database operations. | `Node.js` `Express` `PostgreSQL` `REST APIs` |
+| **[💰 Club Finance Backend](https://github.com/manamritsingh18/club-finance-backend)** | Backend system for managing club funds, expenses and financial records through structured APIs and database operations. | `Node.js` `Express` `PostgreSQL` `REST APIs` |
 
 ---
 
